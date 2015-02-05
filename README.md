@@ -1,2 +1,2 @@
 # scms
-yii2-extention; A simple CMS system; jula tools project
+yii2-extention; A simple CMS system; 7well  project
